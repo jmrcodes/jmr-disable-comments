@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Disable Comments
- * Plugin URI: https://jmr.codes/
+ * Plugin URI: https://github.com/jmrcodes/jmr-disable-comments
  * Description: Disables comments on sites that don't require the functionality
  * Version: 0.1.1
  * Author: James Robinson
